@@ -1,0 +1,27 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Creates a page to render a teams strucutre and the roles and details about each team member",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cormillionaire/TeamProfileGenerator.git"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "cormillionaire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cormillionaire/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/cormillionaire/TeamProfileGenerator#readme"
+}
