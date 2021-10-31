@@ -7,12 +7,3 @@ const page = require("./lib/createPage");
 
 const employeeArray = [];
 employeeInfo(null, employeeArray);
-
-
-
-//Prompt
-////spread array into new array - ...common questions, manager questions
-//build manager
-    //when done, put response to constructor "manager" class
-    //take object and stick to array const employee = []
-    //.then(call another inquirer.prompt) - function

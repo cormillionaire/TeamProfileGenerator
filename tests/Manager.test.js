@@ -5,7 +5,7 @@ describe('Check employee has name,id,email', () => {
       expect(steve.name).toBe('Steve');
       expect(steve.id).toBe('1');
       expect(steve.email).toBe('steve@email.com');
-      expect(steve.role).toBe('manager');
+      expect(steve.role).toBe('Manager');
       expect(steve.phone).toBe('112222');
     });
 
