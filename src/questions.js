@@ -1,7 +1,7 @@
 const inquirer = require("inquirer");
-const Manager = require("./Manager");
-const Engineer = require('./Engineer');
-const Intern = require('./Intern');
+const Manager = require("../lib/Manager");
+const Engineer = require('../lib/Engineer');
+const Intern = require('../lib/Intern');
 const page = require("./createPage");
 
 module.export = {

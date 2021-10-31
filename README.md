@@ -30,6 +30,7 @@ npm run test to check if the employee objects are being built correctly from the
 ### Resources
 - https://gist.github.com/midnightcodr/bd8f9cd4414f5571774c141d1e0865d8
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
+- https://www.toptal.com/developers/gitignore
 
 ## License
 ![alt text](https://img.shields.io/static/v1?label=ISC&message=ISC&color=brightgreen&style=plastic)

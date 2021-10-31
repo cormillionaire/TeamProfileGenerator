@@ -1,5 +1,5 @@
 const fs = require('fs');
-const Employee = require('./Employee');
+const Employee = require('../lib/Employee');
 
 module.export = {
   collectCards: collectCards = (employeeArray) => {
