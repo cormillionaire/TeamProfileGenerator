@@ -6,9 +6,8 @@ const questions = require("./lib/questions");
 
 const employeeArray = [];
 
-employeeInfo();
-managerInfo();
-anotherEmployee();
+employeeInfo(employeeArray);
+
 //Prompt
 ////spread array into new array - ...common questions, manager questions
 //build manager
