@@ -2,8 +2,6 @@
 ## Description
 This project creates a team page with details about each team member
 
-Live Link: [TeamProfileGenerator](https://cormillionaire.github.io/TeamProfileGenerator/)
-
 ---
 ## Table of Contents
 - [Installation](#installation)
