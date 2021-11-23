@@ -20,7 +20,7 @@ Create a team page easily by answering the prompts in the command line for you, 
 
 ![TeamProfileGenerator.gif](./images/TeamProfileGenerator.gif)
 
-**Video URL: https://drive.google.com/file/d/1G_MBjnczUPimo6A0Ecdo8ztUNZEVHD9_/view**
+**Video URL: https://drive.google.com/file/d/1CkPMBIHSPcu7-SlnVOdkIh52GhvHAYay/view**
 
 ## Tests
 npm run test to check if the employee objects are being built correctly from the employee class/sublasses
