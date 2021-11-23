@@ -2,8 +2,6 @@
 ## Description
 This project creates a team page with details about each team member
 
-[Live Link](https://cormillionaire.github.io/TeamProfileGenerator/dist/index.html)
-
 ---
 ## Table of Contents
 - [Installation](#installation)
@@ -21,6 +19,9 @@ This project creates a team page with details about each team member
 Create a team page easily by answering the prompts in the command line for you, the manager, and the rest of your team
 
 ![TeamProfileGenerator.gif](./images/TeamProfileGenerator.gif)
+
+**Video URL: https://drive.google.com/file/d/1G_MBjnczUPimo6A0Ecdo8ztUNZEVHD9_/view**
+
 ## Tests
 npm run test to check if the employee objects are being built correctly from the employee class/sublasses
 ## Credits
